@@ -144,6 +144,11 @@ article .item-title {
   font-weight: 600;
 }
 
+article .item-stack {
+  font-size: 16px;
+  font-weight: 400;
+}
+
 article .item-desciption {
   margin-bottom: 8px;
   font-size: 20px;
